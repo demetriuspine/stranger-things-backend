@@ -18,4 +18,4 @@ Aqui você vai encontrar os locais para colocar suas repostas relativas aos requ
   #### heroku config:set --app demetriuspine-dw UPSIDEDOWN_MODE=true  
   #### heroku config:set --app demetriuspine-up UPSIDEDOWN_MODE=false
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-014-b-stranger-things) em que os requisitos do projeto são destrinchados.
+**Nota**: Este direcionamento está presente no [repositório](https://github.com/demetriuspine/stranger-things) em que os requisitos do projeto são destrinchados.
